@@ -31,4 +31,4 @@ WhackARat does not collect any personal data. All high scores are stored locally
 
 ---
 
-© 2025 Ditte Flamsholt. All rights reserved.
+© 2025 Ditteapp. All rights reserved.
