@@ -28,3 +28,7 @@ A: Select Easy, Normal, or Extreme when choosing a theme.
 ## Privacy Policy
 
 WhackARat does not collect any personal data. All high scores are stored locally on your device. We do not use analytics, tracking, or advertising.
+
+---
+
+© 2025 Ditte Flamsholt. All rights reserved.
